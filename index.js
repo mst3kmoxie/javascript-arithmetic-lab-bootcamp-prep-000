@@ -27,3 +27,4 @@ function dec(a) {
   var decrease = a - 1;
   return decrease;
 }
+
