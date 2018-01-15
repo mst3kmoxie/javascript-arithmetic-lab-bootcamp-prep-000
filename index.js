@@ -17,3 +17,13 @@ function divide(a, b) {
   var number = a / b;
   return number;
 }
+
+function inc(a) {
+  increment = a++;
+  return increment;
+}
+
+function dec(a) {
+  decrement = a--;
+  return decrement;
+}
