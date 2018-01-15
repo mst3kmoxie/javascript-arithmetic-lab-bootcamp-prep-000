@@ -19,11 +19,11 @@ function divide(a, b) {
 }
 
 function inc(a) {
-  a += a;
-  return a;
+  var increase = a + 1;
+  return increase;
 }
 
 function dec(a) {
-  var decrement = a--;
-  return decrement;
+  var decrease = a - 1;
+  return decrease;
 }
