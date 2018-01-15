@@ -32,3 +32,22 @@ function makeInt(n) {
   var integer = parseInt(n, 10);
   return integer;
 }
+
+function preserveDecimal(n) {
+  var decimal = parseFloat(n);
+  return decimal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
