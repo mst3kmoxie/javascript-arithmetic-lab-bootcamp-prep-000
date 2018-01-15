@@ -28,3 +28,6 @@ function dec(a) {
   return decrease;
 }
 
+function makeInt(n) {
+  
+}
